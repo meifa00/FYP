@@ -19,7 +19,7 @@ The <a src="./data/">dataset</a> used for this project contains text data labell
 3. Model evaluation: The trained model is evaluated on the test data to measure its accuracy in detecting emotions in text data.
 
 # Results
-The XXX achieved an accuracy of 62% on the data.
+The XXX achieved an accuracy of XX% on the data.
 
 # Installation
 1. Clone the repository to your local machine:
