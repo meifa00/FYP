@@ -1,9 +1,3 @@
-# Emotion Classification in Text using Natural Language Processing
-
-<img src=""/>
-
-<br>
-
 # Introduction
 Emotion classification in text data involves identifying the emotions expressed in textual data. This can be a challenging task since emotions are often expressed in complex and subtle ways. Natural language processing (NLP) techniques can be used to analyse text data and identify the emotions expressed in it.
 
