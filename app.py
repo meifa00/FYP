@@ -88,11 +88,11 @@ def main():
     else:
         add_page_visited_details("About", datetime.now(IST))
 
-        st.write("Welcome to the Emotion Detection in Text App! This application utilizes the power of natural language processing and machine learning to analyze and identify emotions in textual data.")
+        st.write("Welcome to the Emotion Classification in Text App! This application utilises the power of natural language processing to analyse and identify emotions in textual data.")
 
         st.subheader("Our Mission")
 
-        st.write("At Emotion Detection in Text, our mission is to provide a user-friendly and efficient tool that helps individuals and organizations understand the emotional content hidden within text. We believe that emotions play a crucial role in communication, and by uncovering these emotions, we can gain valuable insights into the underlying sentiments and attitudes expressed in written text.")
+        st.write("At Emotion Classification in Text, our mission is to provide a user-friendly and efficient tool that helps individuals and organisations understand the emotional content hidden within text. We believe that emotions play a crucial role in communication, and by uncovering these emotions, we can gain valuable insights into the underlying sentiments and attitudes expressed in written text.")
 
         st.subheader("How It Works")
 
@@ -102,7 +102,7 @@ def main():
 
         st.markdown("##### 1. Real-time Emotion Detection")
 
-        st.write("Our app offers real-time emotion detection, allowing you to instantly analyze the emotions expressed in any given text. Whether you're analyzing customer feedback, social media posts, or any other form of text, our app provides you with immediate insights into the emotions underlying the text.")
+        st.write("Our app offers real-time emotion detection, allowing you to instantly analyse the emotions expressed in any given text. Whether you are analysing customer feedback, social media posts, or any other form of text, our app provides you with immediate insights into the emotions underlying the text.")
 
         st.markdown("##### 2. Confidence Score")
 
@@ -110,12 +110,12 @@ def main():
 
         st.markdown("##### 3. User-friendly Interface")
 
-        st.write("We've designed our app with simplicity and usability in mind. The intuitive user interface allows you to effortlessly input text, view the results, and interpret the emotions detected. Whether you're a seasoned data scientist or someone with limited technical expertise, our app is accessible to all.")
+        st.write("We've designed our app with simplicity and usability in mind. The intuitive user interface allows you to effortlessly input text, view the results, and interpret the emotions detected. Whether you are a seasoned data scientist or someone with limited technical expertise, our app is accessible to all.")
 
         st.subheader("Applications")
 
         st.markdown("""
-          The Emotion Detection in Text App has a wide range of applications across various industries and domains. Some common use cases include:
+          The Emotion Classification in Text App has a wide range of applications across various industries and domains. Some common use cases include:
           - Social media sentiment analysis
           - Customer feedback analysis
           - Market research and consumer insights
