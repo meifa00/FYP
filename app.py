@@ -30,7 +30,7 @@ def main():
     create_emotionclf_table()
     if choice == "Home":
         add_page_visited_details("Home", datetime.now(IST))
-        st.subheader("Emotion Detection in Text")
+        st.subheader("Emotion Classification in Text")
 
         with st.form(key='emotion_clf_form'):
             raw_text = st.text_area("Type Here")
