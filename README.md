@@ -1,6 +1,6 @@
 # Emotion Classification in Text using Natural Language Processing
 
-<img src="./images/index.png"/>
+<img src=""/>
 
 <br>
 
